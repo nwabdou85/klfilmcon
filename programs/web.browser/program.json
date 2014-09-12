@@ -1,0 +1,119 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "ef27297d38ca4b64404ec6dc5ca0788e2f658596.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/ef27297d38ca4b64404ec6dc5ca0788e2f658596.js",
+      "size": 499059,
+      "hash": "ef27297d38ca4b64404ec6dc5ca0788e2f658596"
+    },
+    {
+      "path": "0b465b475f74a82ca99ef920fa12420e6c6e13ea.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/0b465b475f74a82ca99ef920fa12420e6c6e13ea.css?meteor_css_resource=true",
+      "size": 137542,
+      "hash": "0b465b475f74a82ca99ef920fa12420e6c6e13ea"
+    },
+    {
+      "path": "packages/bootstrap/img/glyphicons-halflings.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap/img/glyphicons-halflings.png",
+      "size": 12799,
+      "hash": "84f613631b07d4fe22acbab50e551c0fe04bd78b"
+    },
+    {
+      "path": "packages/bootstrap/img/glyphicons-halflings-white.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap/img/glyphicons-halflings-white.png",
+      "size": 8777,
+      "hash": "a25c4705320fd63c33790e666872910e702b9bf6"
+    },
+    {
+      "path": "app/1409015063_03-twitter.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/1409015063_03-twitter.png",
+      "size": 291,
+      "hash": "9df666af2002675cff3f9d9d0eca3136ab8892e8"
+    },
+    {
+      "path": "app/1409015393_facebook.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/1409015393_facebook.png",
+      "size": 188,
+      "hash": "926e70e4608ab6550142c20041819844350b9547"
+    },
+    {
+      "path": "app/1409016383_twitter follow me.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/1409016383_twitter follow me.png",
+      "size": 18030,
+      "hash": "329e318b96c622982f45dcae3dab6373b4959987"
+    },
+    {
+      "path": "app/1409016886_twitter.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/1409016886_twitter.png",
+      "size": 1690,
+      "hash": "5a6b64f1c6f8c2c45a728668f32f9f951741f8f3"
+    },
+    {
+      "path": "app/1409017258_f-facebook_256.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/1409017258_f-facebook_256.png",
+      "size": 426,
+      "hash": "944fc30103784d05b0a4a1d05b99744281f447bf"
+    },
+    {
+      "path": "app/1409017790_facebook.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/1409017790_facebook.png",
+      "size": 6485,
+      "hash": "ad3a354b385eb0ffc76681d98c9b70db374cf74e"
+    },
+    {
+      "path": "app/logofilm.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logofilm.png",
+      "size": 4600,
+      "hash": "770b232fc96c1c3eca66ba39a3689f9748123904"
+    },
+    {
+      "path": "app/logoklfil.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logoklfil.png",
+      "size": 9499,
+      "hash": "7a101fbc2e396be60a49368f22a400b4c81d9062"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "05a33ab01ec82977f7cafd489bcf349d65c6b5be"
+    }
+  ]
+}
